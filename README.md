@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pedro 👋
 
-<!--
+
 **pedro871632/pedro871632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🌱 Estudando React e Node.
