@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Pedro 👋
+  Faço o curso superior em Sistemas de Informação no Instituto Federal do Espiríto Santo.
 
-
-**pedro871632/pedro871632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🌱 Estudando React e Node.
 - 📫 Contate-me: pedroluxa871632@gmail.com
