@@ -4,7 +4,6 @@
 
 - 🌱 Estudando React e Node.
 - 📫 Contate-me: pedroluxa871632@gmail.com
-- 😄 Pronome: ele/dele
 <div style="display: inline_block"><br>
   <img align="center" alt="pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
