@@ -1,8 +1,10 @@
 ### Olá! Eu sou o Pedro 👋
   Faço o curso superior em Sistemas de Informação no Instituto Federal do Espiríto Santo.
+  Possuo conhecimentos em Tecnologias como: React, Node, Gsap e Django.
+  
 
 
-- 🌱 Estudando React e Node.
+- 🌱 Estudando mais sobre: Django, Animações 3d com JS(Three Js).
 - 📫 Contate-me: pedroluxa871632@gmail.com
 <div style="display: inline_block"><br>
   <img align="center" alt="pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
