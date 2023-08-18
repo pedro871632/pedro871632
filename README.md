@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Pedro 👋
   Faço o curso superior em Sistemas de Informação no Instituto Federal do Espiríto Santo.
   <br>
-  Possuo conhecimentos em Tecnologias como: React, Node, Gsap e Django.
+  -Possuo conhecimentos em Tecnologias como: React, Node, Gsap e Django.
   
 
 
